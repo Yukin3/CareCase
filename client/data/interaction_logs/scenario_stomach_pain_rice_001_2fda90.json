@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_2fda90",
+  "start_time": 1745687653.6377416,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey experience serious stomach pain after I chop leftover rice yesterday. My area dey very hot and food dey spoil quick. Wetin I fit do?",
+      "user_input": "Well, most of me and you ate something bad. The rice could have been expired.",
+      "timestamp": 1745687685.5214758,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Omo, the pain dey really worry me. E start after I chop the rice wey I keep for fridge overnight. Na so e dey do, abi I fit take anything to help am?",
+      "user_input": "We can prescribe you some antibiotics so that the pain",
+      "timestamp": 1745687720.2586713,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Ah, this kain thing dey tire person. Wetin you feel say I fit do now to make the pain reduce small? Because e no easy at all.",
+      "user_input": "I just told you. Are you listening?",
+      "timestamp": 1745687747.4401052,
+      "emotion": "neutral"
+    }
+  ]
+}

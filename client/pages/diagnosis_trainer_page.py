@@ -53,7 +53,7 @@ class DiagnosisTrainerPage(tk.Frame):
         self.button_frame = tk.Frame(self, bg="white")
         self.button_frame.pack(pady=5)
 
-        self.generate_btn = ttk.Button(self.button_frame, text="🔄 Generate Case", command=self.generate_case)
+        self.generate_btn = ttk.Button(self.button_frame, text="Generate Case", command=self.generate_case)
         self.generate_btn.pack(side="left", padx=10)
 
         self.yes_btn = ttk.Button(self.button_frame, text="✅ Positive", command=lambda: self.submit_guess("positive"))

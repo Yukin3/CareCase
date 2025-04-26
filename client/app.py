@@ -13,7 +13,7 @@ class CareCaseApp(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("CareCase Simulator")
+        self.title("CareCase - Clinical Simulator")
         self.geometry("700x500")
         self.configure(bg="white")
 

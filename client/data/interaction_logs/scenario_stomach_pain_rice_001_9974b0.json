@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_9974b0",
+  "start_time": 1745687368.7135894,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel serious stomach pain since I chop leftover rice yesterday. I dey also get nausea and diarrhea, and I dey wonder if na because of the heat for this area wey dey make food spoil quickly.",
+      "user_input": "you",
+      "timestamp": 1745687399.0214324,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey really worry say the rice don spoil before I chop am. The heat for this area no dey help at all. Wetin you think fit happen?",
+      "user_input": "you",
+      "timestamp": 1745687424.6572335,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey beg, make you help me check wetin fit cause this problem. The way my belle dey do me no be small matter. You think say I fit get food poisoning?",
+      "user_input": "Yeah, might be food poisoning from the rice you ate",
+      "timestamp": 1745687455.2646372,
+      "emotion": "neutral"
+    }
+  ]
+}

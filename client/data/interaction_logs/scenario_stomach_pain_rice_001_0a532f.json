@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_0a532f",
+  "start_time": 1745684551.0787823,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. Abeg, I need your help. Since yesterday when I chop the remaining rice wey I cook two days ago, my belle just dey do me somehow. I dey feel pain for my stomach and I dey purge well well. I even dey feel like I wan vomit. This kind wahala never happen to me before o. I just dey wonder whether na the rice cause am because na only me chop am and my area dey hot well well, food fit spoil quick.",
+      "user_input": "you",
+      "timestamp": 1745684597.6134431,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Abeg doctor, I need something to make this pain stop. I no fit sleep at all last night. I dey fear say I don get food poisoning. Wetin you think say fit be the problem?",
+      "user_input": "you",
+      "timestamp": 1745684627.8276465,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I even dey sweat, and I dey feel like say I wan vomit. I no well at all. E get any medicine wey you fit give me?\"",
+      "user_input": "you",
+      "timestamp": 1745684653.8933501,
+      "emotion": "neutral"
+    }
+  ]
+}

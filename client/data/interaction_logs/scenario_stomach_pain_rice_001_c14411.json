@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_c14411",
+  "start_time": 1745686450.5276134,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel serious pain for my belle after I chop some leftover rice yesterday. I just dey vomit and the running stomach no let me rest. This kind wahala never happen before o.",
+      "user_input": "you",
+      "timestamp": 1745686480.62143,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Abeg doctor, wetin you think say dey cause this kind wahala? I just dey pray say make e no be say I chop spoil food. I no fit bear this kind pain again o.\"",
+      "user_input": "you",
+      "timestamp": 1745686507.3684993,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey suspect say na the leftover rice wey I chop na im cause this problem. I remember say I no warm am well before I chop. E go better make you check me well make we know whether na food poisoning. I no fit stand this pain o.",
+      "user_input": "you",
+      "timestamp": 1745686540.5956025,
+      "emotion": "neutral"
+    }
+  ]
+}

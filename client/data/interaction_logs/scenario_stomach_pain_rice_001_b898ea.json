@@ -1,0 +1,14 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_b898ea",
+  "start_time": 1745685930.8109875,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I dey feel serious pain for my belle since I chop leftover rice yesterday. I dey throw up and even get running stomach. This kain thing never happen to me before. I hope say no be the hot weather for here don spoil the food.",
+      "user_input": "you",
+      "timestamp": 1745685961.1243315,
+      "emotion": "neutral"
+    }
+  ]
+}

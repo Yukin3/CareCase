@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_970519",
+  "start_time": 1745687078.0769265,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I'm feeling sick, my stomach dey pain me well well after I chop leftover rice yesterday. I also dey feel like to vomit and I don dey purge. This kind thing no ever happen to me before.",
+      "user_input": "you",
+      "timestamp": 1745687109.1229446,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I no understand wetin you talk. You fit help me check wetin dey cause this wahala for my belle?",
+      "user_input": "Yes, I'll check. What did you eat?",
+      "timestamp": 1745687135.6493666,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "I no understand, doctor. You no talk anything na. Wetin you think say dey cause the pain for my belle?",
+      "user_input": "Maybe food poisoning.",
+      "timestamp": 1745687160.7012525,
+      "emotion": "neutral"
+    }
+  ]
+}

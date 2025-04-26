@@ -25,7 +25,7 @@ class HomePage(tk.Frame):
         # Logo/home button
         logo = tk.Label(
             navbar, 
-            text="CareCase", 
+            text="👩🏾‍⚕️CareCase", 
             font=FONTS["logo"], 
             bg=COLORS["navbar_bg"], 
             fg=COLORS["text_primary"]

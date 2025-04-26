@@ -1,0 +1,14 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_45ed9e",
+  "start_time": 1745687862.9746761,
+  "turns": [
+    {
+      "ai_line": "Good morning, Doctor. I dey experience serious stomach pain and nausea after I chop leftover rice wey don dey for fridge since yesterday. Di area dey very humid, and I no too sure say di rice stay well.",
+      "user_input": "you",
+      "timestamp": 1745687891.9658012,
+      "emotion": "neutral"
+    }
+  ]
+}

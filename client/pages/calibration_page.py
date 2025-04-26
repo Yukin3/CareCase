@@ -110,7 +110,7 @@ class CalibrationPage(tk.Frame):
         navbar = tk.Frame(self, bg=COLORS["navbar_bg"], height=40)
         navbar.pack(side="top", fill="x")
         
-        logo = tk.Label(navbar, text="CareCase", font=FONTS["logo"], bg=COLORS["navbar_bg"], fg=COLORS["text_primary"])
+        logo = tk.Label(navbar, text="👩🏾‍⚕️", font=FONTS["logo"], bg=COLORS["navbar_bg"], fg=COLORS["text_primary"])
         logo.pack(side="left", padx=SPACING["small"])
 
         back_btn = tk.Button(navbar, text="← Back", command=lambda: self.controller.show_frame("HomePage"))

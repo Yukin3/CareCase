@@ -1,0 +1,20 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_e6d025",
+  "start_time": 1745686212.57303,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel serious pain for my belle wey start wen I chop leftover rice. I dey purge and feel like to vomit sef. E be like say di food don spoil because di place wey I dey stay dey humid well well and food dey spoil quick.",
+      "user_input": "you",
+      "timestamp": 1745686243.8809416,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg wetin you go suggest make I do? I no fit continue like dis, di pain too much.",
+      "user_input": "you",
+      "timestamp": 1745686264.2256892,
+      "emotion": "neutral"
+    }
+  ]
+}

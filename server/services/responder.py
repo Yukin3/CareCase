@@ -56,21 +56,19 @@ def generate_clinical_response(scenario, last_line=None, user_input=None, role="
         user_prompt = f"""
 {scenario_context}
 Start the interaction as a {role} in a natural and realistic way.
-Use the scenario info above, including emotion, culture, or setting cues.
-Respond in {language}. Keep it concise.
+Use the scenario info above, including emotion, culture, and/or setting cues.
+Respond in {language}. Be concise, use 1-2 short sentences.
 """
     else:
-        # Follow-up
-        user_prompt = f"""
+    # Follow-up
+     user_prompt = f"""
 {scenario_context}
-Last line in the interaction:
-\"{last_line}\"
+In the ongoing simulation:
+- You ({role}) previously said: "{last_line}"
+- The user just replied: "{user_input}"
 
-The user just said:
-\"{user_input}\"
-
-Reply as the {role}, continuing the interaction naturally.
-Respond in {language}.
+Now, respond naturally as the {role} would. Keep the conversation realistic, in-character, and culturally appropriate the way one would in this scenario.
+Respond in {language}. Use 1–3 short sentences to keep it flowing like a real conversation.
 """
 
     messages = [
@@ -80,7 +78,7 @@ Respond in {language}.
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=messages,
             temperature=0.7,
             max_tokens=120

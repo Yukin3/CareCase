@@ -1,0 +1,20 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_0db72e",
+  "start_time": 1745689361.2412045,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey get serious stomach pain and wahala after I chop leftover rice yesterday.",
+      "user_input": "Well, I'm sorry to hear that.",
+      "timestamp": 1745689385.1969604,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Na so, doctor. E get as my belle dey do me since I chop the rice. I dey feel like make I vomit, and I don run go toilet like two times this morning. Wetin you think fit be the problem?",
+      "user_input": "I don't know stop asking",
+      "timestamp": 1745689415.6306174,
+      "emotion": "neutral"
+    }
+  ]
+}

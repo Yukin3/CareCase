@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_6202ba",
+  "start_time": 1745684277.4038935,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I dey feel serious pain for my belle after I chop leftover rice wey I keep for house. I dey feel like say I wan throw up and I dey purge too. This kind thing no dey happen before oh, but recently na so so wahala I dey get after I chop. I dey live for area wey e dey always hot, maybe na the heat come spoil the food. I need your help abeg, this pain too much.",
+      "user_input": "you",
+      "timestamp": 1745684321.2950344,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, the matter wey I dey explain so, na since when I chop the rice wey I keep since, na im I start to dey feel this kind bad belle. I feel say maybe na because the weather too hot na im make the food spoil, but I no sure. Na the first time wey this kind thing dey happen to me be this, I no fit sleep for night because of the pain. You fit help me check am?",
+      "user_input": "you",
+      "timestamp": 1745684362.959442,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, the pain still dey for my belle so, e strong well well. I don try to drink plenty water, but e just dey make me purge. The pain sef, e dey make me feel like say I wan vomit. E get any medicine wey I fit take or anything wey I fit do to make this pain stop?",
+      "user_input": "you",
+      "timestamp": 1745684399.8415203,
+      "emotion": "neutral"
+    }
+  ]
+}

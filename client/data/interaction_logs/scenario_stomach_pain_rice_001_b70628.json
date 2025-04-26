@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_b70628",
+  "start_time": 1745688873.5036623,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel serious belly pain after I chop leftover rice for dinner yesterday. My area dey humid, so sometimes food dey spoil quick. Wetin you fit advise me?",
+      "user_input": "You probably ate something bad, it might be food poisoning.",
+      "timestamp": 1745688905.77194,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey really worry because e pain me well well, and I dey feel like vomit. Wetin I fit do to make am better? I no know if I fit chop anything now.",
+      "user_input": "you",
+      "timestamp": 1745688933.7494378,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey try remember wetin I chop yesterday. Na leftover rice I warm for morning. E fit be say na the rice cause am?",
+      "user_input": "you",
+      "timestamp": 1745688956.3018801,
+      "emotion": "neutral"
+    }
+  ]
+}

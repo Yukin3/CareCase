@@ -133,7 +133,7 @@ def score_and_store(log: InteractionLog, online: bool = True):
     # 🎯 Final score
     interaction_value = interaction_score.get("score", 0)
     gaze_value = gaze_score.get("gaze_score", 0)
-    final_score = round((interaction_value + gaze_value), 2)
+    final_score = round((interaction_value + gaze_value)/2, 2)
 
 
     return {
