@@ -1,0 +1,362 @@
+[
+    {
+        "id": "script_food_poisoning_rice",
+        "scenario_id": "scenario_stomach_pain_rice_001",
+        "title": "Stomach Pain After Leftover Rice",
+        "description": "The patient complains of stomach issues after eating old rice.",
+        "language": "en-NG",
+        "role": "patient",
+        "script": [
+            {
+                "text": "Hi doctor... I think something's wrong with my stomach.",
+                "emotion": "nervous",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "what did you eat",
+                    "food",
+                    "diet"
+                ]
+            },
+            {
+                "text": "I had some rice that was left over from last week... it didn’t smell bad though.",
+                "emotion": "unsure",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "vomiting",
+                    "diarrhea",
+                    "fever",
+                    "nausea"
+                ]
+            },
+            {
+                "text": "I’ve been to the bathroom three times already today.",
+                "emotion": "embarrassed",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "how many times",
+                    "watery",
+                    "dehydration"
+                ]
+            },
+            {
+                "text": "I don’t feel like eating anything, and I’ve just been lying in bed.",
+                "emotion": "fatigued",
+                "wait_for_response": false
+            }
+        ]
+    },
+    {
+        "id": "script_unexpected_pregnancy_symptoms",
+        "scenario_id": "scenario_unexpected_pregnancy_001",
+        "title": "Stomach Pain and Missed Period",
+        "description": "The patient has early signs of pregnancy but isn’t yet aware of it.",
+        "language": "en-NG",
+        "role": "patient",
+        "script": [
+            {
+                "text": "I’ve had this dull cramping in my lower stomach for a few days now...",
+                "emotion": "confused",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "pain location",
+                    "when did it start",
+                    "cycle"
+                ]
+            },
+            {
+                "text": "At first I thought it was just PMS or something... but my period is late.",
+                "emotion": "concerned",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "missed period",
+                    "pregnancy",
+                    "sexual activity"
+                ]
+            },
+            {
+                "text": "I’ve also been feeling really tired and kinda nauseous in the mornings.",
+                "emotion": "reflective",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "morning sickness",
+                    "fatigue",
+                    "test"
+                ]
+            },
+            {
+                "text": "It might be nothing... but it’s not normal for me to feel this off.",
+                "emotion": "anxious",
+                "wait_for_response": false
+            }
+        ]
+    },
+    {
+        "id": "script_sinusitis_consult_001",
+        "scenario_id": "scenario_sinusitis_case_001",
+        "title": "ENT Sinusitis Consultation Overview",
+        "description": "The nurse explains a patient's sinusitis case to a student during morning rounds.",
+        "language": "en-US",
+        "role": "clinician",
+        "script": [
+            {
+                "text": "Okay, so this patient is here for persistent sinus problems — started about two weeks ago.",
+                "emotion": "neutral",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "duration",
+                    "symptoms",
+                    "timeline"
+                ]
+            },
+            {
+                "text": "She’s experiencing postnasal drainage, facial pain, headaches, nasal congestion, and even some teeth pain.",
+                "emotion": "concerned",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "severity",
+                    "pattern",
+                    "location"
+                ]
+            },
+            {
+                "text": "The symptoms get worse in the mornings and evenings, which is common with sinus drainage pooling.",
+                "emotion": "instructive",
+                "wait_for_response": false
+            },
+            {
+                "text": "On exam, there's bilateral maxillary sinus tenderness, moderate nasal congestion, and purulent mucus. Water’s view X-ray confirmed mucosal thickening.",
+                "emotion": "clinical",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "imaging",
+                    "findings",
+                    "tenderness"
+                ]
+            },
+            {
+                "text": "We're treating with Augmentin and MucoFen. Also advising smoking cessation, since she smokes a pack a day — which could be worsening inflammation.",
+                "emotion": "matter-of-fact",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "treatment",
+                    "antibiotic",
+                    "smoking"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "script_sinusitis_salma_001",
+        "scenario_id": "scenario_sinusitis_case_001",
+        "title": "Sinus Pain and Nasal Congestion",
+        "description": "Salma reports worsening sinus symptoms over the past two weeks.",
+        "language": "ar-EG",
+        "role": "patient",
+        "voice_id": "ar-EG-SalmaNeural",
+        "personality": "polite, cooperative",
+        "tone": "neutral",
+        "script": [
+            {
+                "text": "صباح الخير يا دكتور. أنا جيت علشان عندي مشكلة مستمرة في الجيوب الأنفية.",
+                "emotion": "neutral",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "أعراض",
+                    "متى بدأت",
+                    "الجيوب الأنفية"
+                ]
+            },
+            {
+                "text": "بقالها تقريبًا أسبوعين، وأنا حاسة بإفرازات خلف الأنف، والتهاب في الحلق، وألم في الوجه.",
+                "emotion": "concerned",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "المدة",
+                    "الموقع",
+                    "الحِدة"
+                ]
+            },
+            {
+                "text": "كمان عندي صداع مستمر واحتقان في الأنف... والأسوأ إنه بيزيد الصبح وبالليل.",
+                "emotion": "slightly tired",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "الوقت",
+                    "الاحتقان",
+                    "الصداع"
+                ]
+            },
+            {
+                "text": "أنا لاحظت كمان صوتي بقى مبحوح شوية، ونفسي مش مرتاح قوي وأنا نايمة بسبب الشخير.",
+                "emotion": "embarrassed",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "النوم",
+                    "الشخير",
+                    "الحلق"
+                ]
+            },
+            {
+                "text": "باخد كلاريتين حاليًا، وكنت استعملت بخاخ رينوكورت قبل كده.",
+                "emotion": "helpful",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "الأدوية",
+                    "العلاج",
+                    "الحساسية"
+                ]
+            },
+            {
+                "text": "بس الصراحة التدخين يمكن مأثر عليّ... أنا بدخن تقريبًا علبة في اليوم بقاله ١٥ سنة.",
+                "emotion": "ashamed",
+                "wait_for_response": false
+            }
+        ]
+    },
+    {
+        "id": "script_schizophrenia_consult_001",
+        "scenario_id": "scenario_paranoid_schizophrenia_001",
+        "title": "Paranoid Schizophrenia – Medication Noncompliance",
+        "description": "The attending explains a psychiatric case to a student intern during an inpatient consult.",
+        "language": "en-US",
+        "role": "clinician",
+        "script": [
+            {
+                "text": "This is a 30-year-old male with chronic paranoid schizophrenia, admitted for worsening paranoia and agitation.",
+                "emotion": "neutral",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "diagnosis",
+                    "paranoia",
+                    "agitation"
+                ]
+            },
+            {
+                "text": "He flew from Houston to Seattle and was deplaned after accusing flight staff of plotting against him.",
+                "emotion": "analytical",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "delusions",
+                    "paranoid",
+                    "episode"
+                ]
+            },
+            {
+                "text": "He broke a window at a shelter and ended up in jail briefly. He’s now on an involuntary hold but calm today.",
+                "emotion": "informative",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "legal",
+                    "involuntary",
+                    "psych hold"
+                ]
+            },
+            {
+                "text": "No substance abuse history. He’s been noncompliant with meds for two weeks — he was on Invega and Abilify.",
+                "emotion": "slightly frustrated",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "medications",
+                    "compliance",
+                    "antipsychotics"
+                ]
+            },
+            {
+                "text": "He appears disorganized but oriented. Delusions are still present. We’re restarting his previous regimen and adding Cogentin to manage EPS if needed.",
+                "emotion": "clinical",
+                "wait_for_response": false
+            }
+        ]
+    },
+    {
+        "id": "script_normal_physical_exam_nurse_001",
+        "scenario_id": "scenario_routine_physical_exam_001",
+        "title": "Normal Physical Exam - Nurse POV",
+        "description": "Nurse relays findings of a routine physical exam to student nurse.",
+        "language": "en-US",
+        "role": "nurse",
+        "script": [
+            {
+                "text": "Alright, let's begin with the **eyes**. The conjunctivae are clear, and the pupils are round and reactive. This is a good sign, indicating that the neurological response is normal.",
+                "emotion": "informative",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "eyes",
+                    "pupils",
+                    "normal"
+                ]
+            },
+            {
+                "text": "Next, we’ll move to the **ears, nose, and mouth**. The ears are normal, with no drainage or erythema. The **oral mucosa** is moist and pink. The **tonsils** look normal with no exudate.",
+                "emotion": "calm",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "ears",
+                    "nose",
+                    "mouth",
+                    "tonsils"
+                ]
+            },
+            {
+                "text": "For the **cardiovascular exam**, the **heart sounds** are normal with no murmurs or gallops. The carotid arteries are clear, and the peripheral pulses are strong.",
+                "emotion": "informative",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "heart",
+                    "murmur",
+                    "pulses"
+                ]
+            },
+            {
+                "text": "Finally, we checked the **musculoskeletal system**. The patient has a normal gait and no signs of joint instability. All joints move without any discomfort, which is a good sign.",
+                "emotion": "neutral",
+                "wait_for_response": false
+            }
+        ]
+    },
+    {
+        "id": "script_normal_physical_exam_doctor_001",
+        "scenario_id": "scenario_routine_physical_exam_001",
+        "title": "Normal Physical Exam - Doctor POV",
+        "description": "Doctor relays findings of a routine physical exam to student nurse.",
+        "language": "en-US",
+        "role": "doctor",
+        "script": [
+            {
+                "text": "Let's start with the **eyes**. The conjunctivae are clear, and there is no sign of any lesions. The **pupils** are reactive, and the **funduscopic exam** shows sharp disk margins, indicating good vascular health.",
+                "emotion": "informative",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "eyes",
+                    "funduscopic",
+                    "pupils"
+                ]
+            },
+            {
+                "text": "Moving on to the **respiratory system**, the patient has clear lungs with no wheezes or crackles. The chest expansion is normal, and percussion is unremarkable.",
+                "emotion": "calm",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "lungs",
+                    "respiratory",
+                    "wheezes"
+                ]
+            },
+            {
+                "text": "For the **cardiovascular exam**, the **PMI** is normal, and we did not hear any murmurs or rubs. The peripheral pulses are palpable and strong, and there is no sign of edema.",
+                "emotion": "neutral",
+                "wait_for_response": true,
+                "expected_keywords": [
+                    "heart",
+                    "peripheral pulses",
+                    "edema"
+                ]
+            },
+            {
+                "text": "Finally, I checked the **neurological status**. The **cranial nerves** are intact, and the patient’s **reflexes** are symmetrical. There’s no ataxia, which suggests normal cerebellar function.",
+                "emotion": "professional",
+                "wait_for_response": false
+            }
+        ]
+    }
+]

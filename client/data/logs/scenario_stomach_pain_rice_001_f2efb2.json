@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_f2efb2",
+  "start_time": 1745517426.2787476,
+  "turns": [
+    {
+      "ai_line": "Good morning doctor, I don dey feel this pain for my belle after I chop some leftover rice wey don stay. I just dey feel like say I wan vomit and I dey purge too. This kind thing no dey normal for my body at all.",
+      "user_input": "Wow, that sounds terrible. What did you eat?",
+      "timestamp": 1745517461.6954367,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, e get any kind medicine wey I fit take for this kind pain? I no fit just dey like this oo, I get plenty work wey I suppose do.",
+      "user_input": "Wow, let's get you fixed up",
+      "timestamp": 1745517490.7757604,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg no vex. Na urgent matter e be. Na so so pain I de dey feel for my belle. E dey come like say I wan purge but e no dey come out. You sure say no be poison dey my body?",
+      "user_input": "Maybe it's food poisoning.",
+      "timestamp": 1745517523.0936723,
+      "emotion": "neutral"
+    }
+  ]
+}

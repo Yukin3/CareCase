@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_75597d",
+  "start_time": 1745627915.9468837,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I dey feel serious pain for my belle as I chop leftover rice wey don stay for house. I dey also feel like I wan vomit and I dey purge too. Abeg, I need help.",
+      "user_input": "you",
+      "timestamp": 1745627945.2512383,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I bin chop the rice around 7 pm yesterday. The pain start to dey worry me around midnight. Na the pain wake me dis early mormor. I still dey feel the pain now, e no wan stop at all.\"",
+      "user_input": "you",
+      "timestamp": 1745627976.6846423,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey also feel like I wan vomit since o. Plus this running belle wey I get so. I tire for dis kind wahala oh. Wetin you think say dey cause am?",
+      "user_input": "you",
+      "timestamp": 1745628004.0665338,
+      "emotion": "neutral"
+    }
+  ]
+}

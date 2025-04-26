@@ -1,0 +1,216 @@
+{
+  "session_id": "scenario_unexpected_pregnancy_001_799f60",
+  "start_time": 1745528839.2382507,
+  "samples": [
+    {
+      "timestamp": 1745528839.3831925,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528839.4965425,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528839.6012633,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528839.7084675,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528839.8174305,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528839.9312592,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.0467556,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.1755767,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.3015783,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.428478,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.5271075,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.626953,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.735182,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.853202,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528840.9653585,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.0789747,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.19374,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.3073993,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.4231105,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.5376706,
+      "eye_contact": false,
+      "gaze_direction": "left"
+    },
+    {
+      "timestamp": 1745528841.6500094,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.7652857,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.8787372,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528841.9907844,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.1042361,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.2947528,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.4057167,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.5201552,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.6346679,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.7477567,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.85881,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528842.968662,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.0811305,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.1869855,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.2885354,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.4033165,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.5140584,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.6286018,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.744789,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.856077,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528843.9665205,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745528844.0866396,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    }
+  ]
+}

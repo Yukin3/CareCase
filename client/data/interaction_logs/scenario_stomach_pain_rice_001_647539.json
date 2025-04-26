@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_647539",
+  "start_time": 1745621380.823724,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I dey feel pains for my belle after I chop leftover rice wey I keep for house. I don also dey purge and I dey feel like to vomit. My place na very moist area and food dey spoil quick for here. I need your help to know wetin dey cause this wahala.",
+      "user_input": "you",
+      "timestamp": 1745621416.38552,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, e get any test wey you fit do to check wetin dey worry me? I no understand why na just after I chop the rice na im dis tin start. I hope say no be something serious. I never see dis kind thing happen before o.\"",
+      "user_input": "you",
+      "timestamp": 1745621449.632616,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Abeg doctor, I dey wait for any advice wey you fit give me. I pray say no be something wey go stop me from chop rice because na my favorite food be that o. Since dat time wey I chop the rice, my belle no gree me rest. E dey pain me well well and I dey purge. I no fit even chop any other food because of the wahala wey dey my belle.\"",
+      "user_input": "you",
+      "timestamp": 1745621489.1723032,
+      "emotion": "neutral"
+    }
+  ]
+}

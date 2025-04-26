@@ -1,0 +1,40 @@
+[
+    {
+        "id": "video_ezinne_stomach_ache_rice",
+        "title": "CareCase - Ezinne Episode 001(Stomach Pain)",
+        "description": "A calm Nigerian woman enters a clinic room, begins to show signs of discomfort.",
+        "source": {
+            "type": "youtube",
+            "url": "https://youtu.be/S0plpSD7MOk"
+        },
+        "thumbnail_url": "images/EzinneRiceThumb.png",
+        "scenario_id": "scenario_stomach_pain_rice_001",
+        "local_path": "videos/EzinneRice.mp4",
+        "duration": 10,
+        "tags": [
+            "stomach_pain",
+            "nervous",
+            "patient",
+            "food_poisoning"
+        ]
+    },
+    {
+        "id": "video_ezinne_unexpected_pregnancy",
+        "title": "CareCase - Ezinne Episode 002(Unexpected Pregnancy)",
+        "description": "A nervous Nigerian woman enters a clinic room showing signs of discomfort and sickness.",
+        "source": {
+            "type": "youtube",
+            "url": "https://youtu.be/V30Fon4NP2k"
+        },
+        "thumbnail_url": "images/EzinnePregnantThumb.png",
+        "scenario_id": "scenario_unexpected_pregnancy_001",
+        "local_path": "videos/EzinnePregnant.mp4",
+        "duration": 10,
+        "tags": [
+            "stomach_pain",
+            "anxious",
+            "nausea",
+            "pregnancy"
+        ]
+    }
+]

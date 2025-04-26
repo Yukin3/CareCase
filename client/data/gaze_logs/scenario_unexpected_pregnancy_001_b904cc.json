@@ -1,0 +1,2956 @@
+{
+  "session_id": "scenario_unexpected_pregnancy_001_b904cc",
+  "start_time": 1745550741.662904,
+  "samples": [
+    {
+      "timestamp": 1745550741.7773533,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550741.877329,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550741.9680917,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.0634847,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.1565425,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.246804,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.352214,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.4657514,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.5636427,
+      "eye_contact": false,
+      "gaze_direction": "left"
+    },
+    {
+      "timestamp": 1745550742.680066,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.7967713,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.892733,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550742.990451,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.0923135,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.1867,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.2828748,
+      "eye_contact": false,
+      "gaze_direction": "left"
+    },
+    {
+      "timestamp": 1745550743.3746765,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.4709218,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.564584,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.6607895,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.8563337,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550743.9539044,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.047772,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.145861,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.2392845,
+      "eye_contact": false,
+      "gaze_direction": "right"
+    },
+    {
+      "timestamp": 1745550744.3342052,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.4307911,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.5278409,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.6211085,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.7182705,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.812797,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550744.9083958,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.0025613,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.099505,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.1855018,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.275926,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.365403,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.4642339,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.5599906,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.6581223,
+      "eye_contact": false,
+      "gaze_direction": "left"
+    },
+    {
+      "timestamp": 1745550745.7536597,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.851427,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550745.9449742,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.0416703,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.1342635,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.2309704,
+      "eye_contact": false,
+      "gaze_direction": "right"
+    },
+    {
+      "timestamp": 1745550746.3217957,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.4140284,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.5070791,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.5990372,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.691734,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.78386,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.875748,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550746.969079,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.0622742,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.1540198,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.2461026,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.3510234,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.447666,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.5417087,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.6370008,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.729317,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.8227305,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.9111826,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550747.997945,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.08682,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.195178,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.294196,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.3956254,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.4908109,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.5853968,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.6801748,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.7763731,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.8708725,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550748.9616578,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.056173,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.1547954,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.2481134,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.3404808,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.4329755,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.528162,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.6199002,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.7147233,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.8095846,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550749.9060736,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.0012076,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.0933444,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.1865366,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.2860532,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.3801463,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.4733944,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.5682766,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.659942,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.7491617,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.8367195,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550750.9310985,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.0266845,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.122405,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.2157836,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.31147,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.4067986,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.500455,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.5932112,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.686102,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.7790394,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.8729079,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550751.9678974,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.06251,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.1573834,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.2507987,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.342236,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.4449863,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.548872,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.648067,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.7483575,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.8482893,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550752.9510984,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.0721297,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.2100453,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.3518734,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.5581136,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.705493,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550753.8412423,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550754.1347187,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550754.3530056,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550754.5043406,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550754.6855721,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550754.8387697,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.0071588,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.1618507,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.3467095,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.5575979,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.7508438,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550755.904764,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.0071645,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.1687524,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.3210845,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.5106843,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.7002068,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.864449,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550756.9909248,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.1182735,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.2530763,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.3891115,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.490926,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.5867262,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.6807523,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.774509,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.868795,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550757.9627976,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.0571127,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.1651824,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.257424,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.349712,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.4867008,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.5854607,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.6770644,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.7707007,
+      "eye_contact": false,
+      "gaze_direction": "right"
+    },
+    {
+      "timestamp": 1745550758.8623013,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550758.9545436,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.060963,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.1612167,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.2566028,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.3495986,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.4451492,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.5373619,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.6370306,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.7478209,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.8656056,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550759.9879844,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.0918162,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.1811907,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.278614,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.3751912,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.472965,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.5686233,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.6699677,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.764541,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.859876,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550760.9539719,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.0497165,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.1439786,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.240037,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.3352952,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.4309742,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.525656,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.6217797,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.7189312,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.817094,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550761.9096203,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.0071955,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.1041007,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.2224884,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.3262978,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.428186,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.5717087,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.6884766,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.806585,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550762.9250138,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.0426216,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.1604984,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.2794724,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.4216447,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.5608,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.66291,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.7642436,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.8590717,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550763.956511,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.0524275,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.149377,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.2429721,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.338169,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.4319303,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.5301645,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.6261263,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.7224267,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.8150258,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.9071896,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550764.9990447,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.0900166,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.1813283,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.2731771,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.366051,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.4575274,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.5486698,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.6398878,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.7441616,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.8368027,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550765.9238374,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.0115256,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.0956926,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.1890297,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.2866209,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.3837698,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.475163,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.5697155,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.6626897,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.751934,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.8393412,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550766.9269004,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550767.0114,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550767.0959044,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745550767.1736696,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.2452183,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.3154821,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.3831182,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.4499755,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.517161,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.5857456,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.6534066,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.7207322,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.7903333,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.8564668,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.9234438,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550767.990821,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.058983,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.1249475,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.1909914,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.2580564,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.3236895,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.3888493,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.4569376,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.5242567,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.5928123,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.6592119,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.7236469,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.7894166,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.8545902,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.9288747,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550768.9994717,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.0679078,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.1381922,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.2053304,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.2734656,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.343053,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.4128797,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.481433,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.5492394,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.6167424,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.686199,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.7539594,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.8220096,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.8901355,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550769.9610555,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.0294616,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.096497,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.1663685,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.2354586,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.3033388,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.3705072,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.4387677,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.5064116,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.5764182,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.644959,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.7122073,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.787864,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.8609283,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550770.9491823,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.0318666,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.1412513,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.2586472,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.3987665,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.5062168,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.6186192,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.7150614,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.7992625,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550771.9354665,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.0482612,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.1626399,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.2668204,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.3735876,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.46069,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.5919805,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.7065926,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.8266344,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550772.9599836,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.0543723,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.1912591,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.315889,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.4562266,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.548698,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.680564,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.8017547,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550773.9145207,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.0445065,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.148348,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.2872539,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.3961768,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.4978917,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.6079228,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.70256,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.8096952,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550774.9150894,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.0118563,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.1144903,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.197899,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.289485,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.37526,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.4462564,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.5153275,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.5846732,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.6525502,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.7215493,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.7904787,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.8584995,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550775.9523954,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.0197544,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.0884736,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.1771123,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.2457829,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.3131292,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.3811839,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.4482265,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.5218139,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.5966272,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.6700234,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.7439783,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.818113,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.8881693,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550776.967573,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.0449936,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.1127138,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.1823475,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.249589,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.3216686,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.3902853,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.4610817,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.527979,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.6107938,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.6927254,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.7827518,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.8561113,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550777.9503794,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.0245793,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.0941746,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.1609385,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.2288585,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.299802,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.374377,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.441996,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.5122242,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.5814757,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.6524222,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.720793,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.7937376,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.8616612,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.9328156,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550778.9998257,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.0718782,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.1406336,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.2132144,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.2807105,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.3512437,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.418693,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.4889405,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.5569768,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.6279795,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.6948416,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.7663627,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.8339553,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.904979,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550779.9726496,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.043378,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.1129715,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.1841385,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.2527812,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.3248966,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.393992,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.4624548,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.5292265,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.5963273,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.664562,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.7323995,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.8005335,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.8692403,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550780.9361432,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.001639,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.0670943,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.1333568,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.2023509,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.2729952,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.3433328,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.4115498,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.4797325,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.5488212,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.6162596,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.6844494,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.7529216,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.8196752,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.8871648,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550781.9548655,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.0221581,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.090295,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.158084,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.2264805,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.2948914,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.3624933,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.4289727,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.498101,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.5650384,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.6331031,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.701779,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.7691321,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.842105,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.9101098,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550782.976819,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.045365,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.1136556,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.1822908,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.2496789,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.3167737,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.383571,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.4519565,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.5210524,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.5887685,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.6556537,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.725973,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.79771,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.8669455,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550783.9350095,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.000126,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.0641105,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.1338484,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.203866,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.2752664,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.3447125,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.4145625,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.4827456,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.5513284,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.6233535,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.6919022,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.7617104,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.829869,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.8970866,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550784.9657497,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.0525506,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.1265397,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.194494,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.263299,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.3314025,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.398473,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.4687362,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.537373,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.6125772,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.6810055,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.7487662,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.8174758,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.8848362,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550785.9532568,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.0207605,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.088774,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.156331,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.2265804,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.2939053,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.3616717,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.4289522,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.4976418,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.564253,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.6327167,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.7007644,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.769501,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.838919,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.9036226,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550786.973277,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.0430815,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.113138,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.1802895,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.2491357,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.3159063,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.384812,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.4533992,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.5205495,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.5906909,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.6589277,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.7290242,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.7967384,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.877095,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550787.9502738,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.0440433,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.1529784,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.2731483,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.3867826,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.5342827,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.6433647,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.7705793,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550788.887891,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.0157018,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.1127176,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.216884,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.3237612,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.4185667,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.560707,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.6790087,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.7989478,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550789.8980622,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.011794,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.1189322,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.23036,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.378564,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.486612,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.579884,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.6614783,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.8012235,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550790.9378803,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.0571547,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.1619284,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.294703,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.413975,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.5148203,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.6048625,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.7192576,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.8266575,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550791.9106095,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.0106344,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.1149123,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.200885,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.2829766,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.3661113,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.4508474,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.534987,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.6278167,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.7150626,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.79558,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.8736606,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550792.9546585,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.0339446,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.1159282,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.1872113,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.2540302,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.320022,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.385975,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.452465,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.5183914,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.5851505,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.6529183,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.7189786,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.7828143,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.8492382,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.9132464,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550793.9808376,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.047248,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.1143534,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.1821437,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.2501884,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.3189251,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.3863828,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.454083,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.521512,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.5891914,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    },
+    {
+      "timestamp": 1745550794.6571088,
+      "eye_contact": false,
+      "gaze_direction": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "scenario_id": "scenario_unexpected_pregnancy_001",
+  "role": "patient",
+  "session_id": "scenario_unexpected_pregnancy_001_799f60",
+  "start_time": 1745528839.238195,
+  "turns": [
+    {
+      "ai_line": "I\u2019ve had this dull cramping in my lower stomach for a few days now...",
+      "user_input": "you",
+      "timestamp": 1745528853.4981258,
+      "emotion": "neutral"
+    }
+  ]
+}

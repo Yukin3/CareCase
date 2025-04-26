@@ -1,0 +1,102 @@
+[
+    {
+        "id": "scenario_stomach_pain_rice_001",
+        "title": "Stomach Pain After Eating Leftover Rice",
+        "description": "A patient reports abdominal pain following the consumption of leftover rice.",
+        "category": "digestive issue",
+        "time_of_day": "morning",
+        "location": {
+            "setting": "clinic",
+            "city": "Mumbai",
+            "country": "India"
+        },
+        "symptoms": [
+            "abdominal pain",
+            "nausea",
+            "diarrhea"
+        ],
+        "environmental_context": "Patient lives in a humid area with frequent food spoilage."
+    },
+    {
+        "id": "scenario_unexpected_pregnancy_001",
+        "title": "Early Pregnancy Symptoms",
+        "description": "A young woman reports missed period and fatigue, unaware of possible pregnancy.",
+        "category": "reproductive health",
+        "time_of_day": "afternoon",
+        "location": {
+            "setting": "community health center",
+            "city": "Lagos",
+            "country": "Nigeria"
+        },
+        "symptoms": [
+            "missed period",
+            "nausea",
+            "fatigue",
+            "abdominal cramping"
+        ],
+        "environmental_context": "Limited access to pregnancy testing in the area."
+    },
+    {
+        "id": "scenario_sinusitis_case_001",
+        "title": "Chronic Sinus Issues with Facial Pain and Snoring",
+        "description": "Middle-aged patient with persistent sinus-related symptoms such as facial pain, nasal congestion, postnasal drip, and snoring. Symptoms have lasted over two weeks.",
+        "category": "ENT - Otolaryngology",
+        "time_of_day": "evening",
+        "location": {
+            "setting": "specialist ENT clinic",
+            "city": "Chicago",
+            "country": "USA"
+        },
+        "symptoms": [
+            "postnasal drainage",
+            "facial pain",
+            "sore throat",
+            "nasal burning",
+            "snoring",
+            "teeth pain",
+            "coughing",
+            "headaches",
+            "nasal congestion"
+        ],
+        "environmental_context": "Patient is a smoker with family history of allergies. Reports worsened symptoms in the morning and evening. Imaging confirmed bilateral maxillary sinus thickening."
+    },
+    {
+        "id": "scenario_paranoid_schizophrenia_001",
+        "title": "Paranoid Schizophrenia with Medication Noncompliance",
+        "description": "30-year-old male with chronic paranoid schizophrenia presents with increasing paranoia and agitation following a lapse in medication compliance.",
+        "category": "psychiatry - psych consult",
+        "time_of_day": "afternoon",
+        "location": {
+            "setting": "inpatient psychiatric unit",
+            "city": "Seattle",
+            "country": "USA"
+        },
+        "symptoms": [
+            "paranoid delusions",
+            "mood lability",
+            "agitation",
+            "disorganized thinking",
+            "poor judgment"
+        ],
+        "environmental_context": "Patient was recently discharged from jail following a psychotic episode and is currently under involuntary hold. No substance use history, but demonstrates poor insight into illness and need for care."
+    },
+    {
+        "id": "scenario_routine_physical_exam_001",
+        "title": "Routine Physical Exam",
+        "description": "A patient undergoes a routine physical exam, with normal findings across multiple systems.",
+        "category": "general medicine",
+        "time_of_day": "morning",
+        "location": {
+            "setting": "hospital",
+            "city": "Cairo",
+            "country": "Egypt"
+        },
+        "symptoms": [
+            "normal physical findings",
+            "clear lungs",
+            "no murmurs",
+            "normal gait"
+        ],
+        "environmental_context": "A well-equipped hospital with access to necessary medical tools for physical exams."
+    }
+]

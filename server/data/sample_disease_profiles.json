@@ -1,0 +1,482 @@
+[
+  {
+    "disease": "Influenza",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 19,
+      "gender": "female",
+      "blood_pressure": "low",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Eczema",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "male",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "male",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Eczema",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Influenza",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Influenza",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 25,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Hyperthyroidism",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 28,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Hyperthyroidism",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 28,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Asthma",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 28,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Allergic Rhinitis",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "low"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Anxiety Disorders",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "high"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": {
+      "fever": false,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "low",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Diabetes",
+    "symptoms": {
+      "fever": false,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "male",
+      "blood_pressure": "low",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Gastroenteritis",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Pancreatitis",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "high",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Rheumatoid Arthritis",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "high",
+      "cholesterol_level": "high"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Depression",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Liver Cancer",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Stroke",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Urinary Tract Infection",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 29,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "high"
+    },
+    "outcome": "positive"
+  },
+  {
+    "disease": "Dengue Fever",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Dengue Fever",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Eczema",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "high"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Gastroenteritis",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "high"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Hepatitis",
+    "symptoms": {
+      "fever": true,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": true
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "male",
+      "blood_pressure": "high",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Kidney Cancer",
+    "symptoms": {
+      "fever": false,
+      "cough": false,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "male",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": {
+      "fever": true,
+      "cough": false,
+      "fatigue": false,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  },
+  {
+    "disease": "Migraine",
+    "symptoms": {
+      "fever": false,
+      "cough": true,
+      "fatigue": true,
+      "difficulty_breathing": false
+    },
+    "patient_profile": {
+      "age": 30,
+      "gender": "female",
+      "blood_pressure": "normal",
+      "cholesterol_level": "normal"
+    },
+    "outcome": "negative"
+  }
+]

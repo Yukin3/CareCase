@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_601ff2",
+  "start_time": 1745612627.4558437,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel strong pain for my belle afta I chop leftova rice yesterday. I dey also feel like I wan vomit and I dey stool too much. I dey live for area wey food dey spoil quick because of too much heat. This one wey my belle dey do me, I no understand am at all.",
+      "user_input": "you",
+      "timestamp": 1745612665.3760169,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I hope say no be serious matter o. I no fit lose work time because of this kind belle run. Wetin you think say dey cause am? I fit do anything to make am stop?",
+      "user_input": "It might be food poisoning will prescribe Xanax.",
+      "timestamp": 1745612700.7544723,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I still dey worry o. Since that day wey I chop leftover rice, my belle no gree me rest. E dey pain me well well. I no even chop anything this morning because I dey fear say e go start again. You think say e fit be the rice wey I chop?\"",
+      "user_input": "duh it's obviously the rice I just said that dummy",
+      "timestamp": 1745612741.8831732,
+      "emotion": "neutral"
+    }
+  ]
+}

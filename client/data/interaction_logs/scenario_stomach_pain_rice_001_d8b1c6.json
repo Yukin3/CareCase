@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_d8b1c6",
+  "start_time": 1745614730.8260963,
+  "turns": [
+    {
+      "ai_line": "Doctor, abeg, I dey feel pain for my belle after I chop leftover rice wey I keep for house. I no fit chop again, e dey make me feel like say I wan vomit. Plus, I also dey experience running stomach. I dey live for area wey hot well well, so food fit spoil quick quick. I dey worry say na the rice cause am.",
+      "user_input": "Sorry, sorry.",
+      "timestamp": 1745614771.2695508,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, wetin you think say fit cause this kind wahala? I don dey careful with wetin I dey chop so I surprise say this one happen. E fit be say na the rice spoil? I don drink plenty water but the pain no wan gree stop. You fit help me check am?",
+      "user_input": "Yes, I hope you check. If you be, if you be.",
+      "timestamp": 1745614809.08697,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I still dey feel the pain for belle. E be like say my body dey hot small. I dey sweat and I no fit sleep well. Diarrhea sef dey worry me. Wetin I fit do now?\"",
+      "user_input": "How do I know I am only a student please?",
+      "timestamp": 1745614842.316209,
+      "emotion": "neutral"
+    }
+  ]
+}

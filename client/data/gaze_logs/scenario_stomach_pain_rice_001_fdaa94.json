@@ -1,0 +1,56 @@
+{
+  "session_id": "scenario_stomach_pain_rice_001_fdaa94",
+  "start_time": 1745614620.3837264,
+  "samples": [
+    {
+      "timestamp": 1745614620.5933065,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614620.7018623,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614620.806633,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614620.910609,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.016613,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.1224935,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.2266846,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.3273551,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.4282873,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    },
+    {
+      "timestamp": 1745614621.5278533,
+      "eye_contact": true,
+      "gaze_direction": "center"
+    }
+  ]
+}

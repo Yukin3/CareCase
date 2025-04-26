@@ -1,0 +1,14 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_2b4b22",
+  "start_time": 1745619184.3945687,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel serious pain for my belle after I chop the rice wey I keep since yesterday. I just dey comot from toilet now sef, my body dey do me somehow. I dey feel like to vomit. My house dey for area wey heat too much, food no dey last for there. Abeg I need your help.",
+      "user_input": "you",
+      "timestamp": 1745619219.9337595,
+      "emotion": "neutral"
+    }
+  ]
+}

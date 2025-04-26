@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_73e7bf",
+  "start_time": 1745627354.3123007,
+  "turns": [
+    {
+      "ai_line": "Doctor, dis morning, after I chop di leftover rice wey I keep for fridge, my belle start to give me wahala. I dey feel pain for my stomach wella, even my body dey do me as if I wan purge. I even feel like to vomit sef. I dey stay for area wey e dey hot well well, food wey dem no keep well fit spoil sharp sharp. I no know wetin I fit do.",
+      "user_input": "you",
+      "timestamp": 1745627396.9127963,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I even try drink water and rest but e no help anything. E be like say the pain dey increase. I dey fear say the rice don spoil before I chop am. I no sure wetin I go do now. I no fit even stand up from where I dey, the pain too much.",
+      "user_input": "you",
+      "timestamp": 1745627432.4210029,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I beg, how you go fit help me? I don dey feel this pain since I chop the rice yesterday. E be like say I dey throw up every time and e come with serious pain for my belle. I no fit even hold anything for inside my belle. I no know if na the rice wey I chop na im cause am or something else. Wetin you think say fit cause am?",
+      "user_input": "you",
+      "timestamp": 1745627474.6294162,
+      "emotion": "neutral"
+    }
+  ]
+}

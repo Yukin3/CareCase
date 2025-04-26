@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_a167fc",
+  "start_time": 1745524446.685604,
+  "turns": [
+    {
+      "ai_line": "[AI unavailable]",
+      "user_input": "you",
+      "timestamp": 1745524463.3731499,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "[AI unavailable]",
+      "user_input": "you",
+      "timestamp": 1745524480.5264492,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "[AI unavailable]",
+      "user_input": "you",
+      "timestamp": 1745524497.6071815,
+      "emotion": "neutral"
+    }
+  ]
+}

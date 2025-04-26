@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_df9963",
+  "start_time": 1745555126.5353603,
+  "turns": [
+    {
+      "ai_line": "Hi doctor... I think something's wrong with my stomach.",
+      "user_input": "Uhhh...",
+      "timestamp": 1745555143.9685292,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "I had some rice that was left over from last week... it didn\u2019t smell bad though.",
+      "user_input": "you",
+      "timestamp": 1745555163.265745,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "I\u2019ve been to the bathroom three times already today.",
+      "user_input": "you",
+      "timestamp": 1745555180.5511687,
+      "emotion": "neutral"
+    }
+  ]
+}

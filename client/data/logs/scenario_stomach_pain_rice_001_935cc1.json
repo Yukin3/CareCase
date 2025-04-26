@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_935cc1",
+  "start_time": 1745518455.2039506,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel pain for my belle since I chop some leftover rice wey I keep for house. I live for area wey e dey always hot and food dey spoil quick. I don dey feel somehow, like say I wan vomit and I dey rush go toilet. I dey hope say no be say something don do me o.",
+      "user_input": "(dramatic music)",
+      "timestamp": 1745518494.7544742,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I no fit chop anything again since I chop that rice. My belle dey do me strong thing, e be like say I go vomit. I don even go toilet tire. This area wey I dey so, e dey hot well well, food no dey last. I been think say the rice go still fresh, but e come be like say e don spoil. I dey fear o, I hope say no be something serious?\"",
+      "user_input": "Well you shouldn't live like that beautiful girl like you, Nashin.",
+      "timestamp": 1745518543.9671392,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I dey beg, you fit give me something to make the pain stop? I no fit continue like this. I no go chop leftover food again, I promise. Na only fresh food I go dey chop henceforth\"",
+      "user_input": "How about I give you my number and fine girl?",
+      "timestamp": 1745518578.8552518,
+      "emotion": "neutral"
+    }
+  ]
+}

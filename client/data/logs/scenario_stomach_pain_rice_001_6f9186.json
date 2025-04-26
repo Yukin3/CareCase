@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_6f9186",
+  "start_time": 1745519067.8264074,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel this heavy pain for my belle after I chop leftover rice wey don stay for house. The food no dey smell bad o, but e been dey for house for some days. I dey live for area wey heat too much and food fit spoil quick quick. I don dey purge and I dey feel like I wan vomit. I no fit bear this pain again o.",
+      "user_input": "What did you eat? Did you drink water? Okay.",
+      "timestamp": 1745519111.2688663,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I go like make you check me well well. I no wan make e be say na something bad dey worry me. You fit sabi wetin dey cause this wahala? I go fit do anything to make am stop.",
+      "user_input": "Yes, if you've been having nausea and porjing, then it might mean you have stomach porjing.",
+      "timestamp": 1745519146.6351411,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg, I dey serious. The pain wey I dey feel no be small thing. Again, I go like know if na the rice wey I chop yesterday cause am. I bin store the rice for fridge but as I chop am, my belle just dey do me somehow. E dey pain me well well and I dey purge. I no fit sleep sef. Wetin you think say fit cause am?",
+      "user_input": "There should be food poisoning.",
+      "timestamp": 1745519193.7113295,
+      "emotion": "neutral"
+    }
+  ]
+}

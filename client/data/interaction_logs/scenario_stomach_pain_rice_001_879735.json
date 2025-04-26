@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_879735",
+  "start_time": 1745628024.3950853,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor. I dey feel serious pain for my belle after I chop leftover rice. E come dey give me wahala since that time, my belle dey turn, e be like say I wan purge. I just dey fear, I hope say no be food poison be this? Because for our area, food dey quick spoil because of the heat.",
+      "user_input": "you",
+      "timestamp": 1745628062.8241346,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg I need your help oh. This pain no dey let me rest. E be like say something dey move inside my belle. I hope say no be something serious?",
+      "user_input": "you",
+      "timestamp": 1745628090.4249127,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I chop leftover rice yesterday night and since then my belle just dey turn me anyhow. I even dey purge sef. I no fit sleep all through the night because of the pain. I hope say e no go too serious? I dey fear o.",
+      "user_input": "you",
+      "timestamp": 1745628123.7033923,
+      "emotion": "neutral"
+    }
+  ]
+}

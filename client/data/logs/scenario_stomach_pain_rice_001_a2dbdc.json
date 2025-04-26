@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_a2dbdc",
+  "start_time": 1745517921.5252957,
+  "turns": [
+    {
+      "ai_line": "Good morning Doctor, I dey feel pain for my belle after I chop leftover rice wey I keep for house. I dey also feel like say I wan vomit and I dey purge too. The place wey I dey stay, na humid area and our food dey spoil quick quick. I need your help, I no fit bear this pain again.",
+      "user_input": "Wow, this is horrible. What did you eat?",
+      "timestamp": 1745517961.6372774,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg, wetin you think say fit dey cause this kind wahala for my body? I hope say no be something wey serious? I just chop the rice yesterday night and this morning, na so so belle pain and purge I begin get.",
+      "user_input": "you",
+      "timestamp": 1745517994.1555805,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, the way wey this thing just start na him dey fear me pass. Na only small time e take start after I chop the rice wey remain. No be say I leave am for outside o, I put am for fridge. But you know say light no dey always dey for our side and the weather sef no dey help matter. You think say na the rice fit cause am?",
+      "user_input": "Yes, for shortly later",
+      "timestamp": 1745518034.782544,
+      "emotion": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_a606d4",
+  "start_time": 1745610824.6495457,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel serious pain for my belle. I chop some leftover rice yesterday and since then, I no fit sleep because of the wahala for my stomach. I dey feel like vomit and my belly dey run too. E no normal at all. This kind thing no dey happen for my area because e dey very humid and food dey spoil quick quick. I dey really worried.",
+      "user_input": "you",
+      "timestamp": 1745610868.9069562,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I beg, which kind medicine I fit take to stop this pain? And how I fit prevent am make e no come back again? Because the way wey food dey spoil for we area, I no want make this kind thing happen again.",
+      "user_input": "you",
+      "timestamp": 1745610900.7211757,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, you no talk anything. Abeg, I still dey wait for your advice. E dey important make I sabi wetin I fit do to stop this pain and how I fit prevent am for future.",
+      "user_input": "you",
+      "timestamp": 1745610929.4162335,
+      "emotion": "neutral"
+    }
+  ]
+}

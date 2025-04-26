@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_026332",
+  "start_time": 1745626504.4647934,
+  "turns": [
+    {
+      "ai_line": "Good morning doctor, I dey feel serious pain for my belle after I chop leftover rice wey don stay for house. I dey throw up and my belle dey run too. I dey live for area wey rain dey fall wella so food dey spoil quick quick. I no fit bear this pain again abeg.",
+      "user_input": "you",
+      "timestamp": 1745626538.2076128,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, this pain na him wey I no fit understand. E dey come and go. Na so so sweat dey catch me. I don try use agbo but e no work. Wetin I fit do abeg?",
+      "user_input": "you",
+      "timestamp": 1745626568.3612592,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I need help o. The pain too much for me. I bin chop leftover rice yesterday night, e come be like say belle wan tear since then. I don dey purge and I even vomit sef. E dey worry me say na only me chop the rice for house, but na only me wey dey sick like this. You fit helep me check wetin the problem be?",
+      "user_input": "you",
+      "timestamp": 1745626609.5726056,
+      "emotion": "neutral"
+    }
+  ]
+}

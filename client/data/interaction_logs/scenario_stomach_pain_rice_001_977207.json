@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_977207",
+  "start_time": 1745613932.0845988,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel severe pain for my belle after I chop the leftover rice wey I keep for house. The area wey I dey so, na so so spoil food dey everywhere because of the humidity. I also dey feel like say I go vomit at any time and I dey stool water. This pain e dey worry me well well, I no fit do anything again.",
+      "user_input": "you",
+      "timestamp": 1745613976.2233355,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I bin dey try manage the pain since, but e no gree reduce. The pain e too much, e come dey make me dey sweat. I don drink plenty water make I fit dey hydrated, but e no dey help at all. You fit give me any medicine wey go make the pain reduce or any advice on waiting I fit do?",
+      "user_input": "you",
+      "timestamp": 1745614017.0178185,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I don forget mention say I don chop some leftover rice wey don dey for fridge since like three days ago. You think say e fit be the cause of the wahala? I bin think say e go still dey okay to chop. I don dey feel somehow for my belle and I dey purge since. I hope say no be something serious.",
+      "user_input": "you",
+      "timestamp": 1745614056.5317945,
+      "emotion": "neutral"
+    }
+  ]
+}

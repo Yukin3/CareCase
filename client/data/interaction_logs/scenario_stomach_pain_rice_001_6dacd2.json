@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_6dacd2",
+  "start_time": 1745618136.3852203,
+  "turns": [
+    {
+      "ai_line": "Good morning, doctor. I dey feel pain for my belle after I chop leftover rice yesterday. I don also dey feel like I wan vomit and my body dey do me somehow. The place I dey live, food no dey last because e dey hot well well. I no sure if na the rice wey don spoil cause am. This one wey I dey so, I no fit do anything. E dey pain me well well.",
+      "user_input": "What can I do to help?",
+      "timestamp": 1745618181.2504666,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, abeg you fit help me check wetin dey worry me? I no fit suffer like this again. I just dey pray say make e no be say the rice wey I chop don spoil. The kind wahala wey I dey face now, e no good at all. E be like say I wan purge sef. Na so so sweat full my body. I no fit do any work with this kind condition.",
+      "user_input": "What am I supposed to do?",
+      "timestamp": 1745618225.784242,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I dey beg you, I need your help. This pain no be small thing. I just dey hope sey e no be food poison from that rice wey I chop. I fit vomit anytime now and e don dey hard me to chop anything. I just dey weak, dey sweat anyhow. I no fit do any work as e dey so. I need solution fast fast.",
+      "user_input": "you'll be fine relax",
+      "timestamp": 1745618269.6148765,
+      "emotion": "neutral"
+    }
+  ]
+}

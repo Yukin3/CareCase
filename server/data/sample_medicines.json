@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Acetocillin",
+    "category": "Antidiabetic",
+    "dosage_form": "Cream",
+    "strength": "938 mg",
+    "manufacturer": "Roche Holding AG",
+    "indication": "Virus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Ibuprocillin",
+    "category": "Antiviral",
+    "dosage_form": "Injection",
+    "strength": "337 mg",
+    "manufacturer": "CSL Limited",
+    "indication": "Infection",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Dextrophen",
+    "category": "Antibiotic",
+    "dosage_form": "Ointment",
+    "strength": "333 mg",
+    "manufacturer": "Johnson & Johnson",
+    "indication": "Wound",
+    "classification": "prescription"
+  },
+  {
+    "name": "Clarinazole",
+    "category": "Antifungal",
+    "dosage_form": "Syrup",
+    "strength": "362 mg",
+    "manufacturer": "AbbVie Inc.",
+    "indication": "Pain",
+    "classification": "prescription"
+  },
+  {
+    "name": "Amoxicillin",
+    "category": "Antifungal",
+    "dosage_form": "Tablet",
+    "strength": "802 mg",
+    "manufacturer": "Teva Pharmaceutical Industries Ltd.",
+    "indication": "Wound",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Ibupromycin",
+    "category": "Antibiotic",
+    "dosage_form": "Injection",
+    "strength": "140 mg",
+    "manufacturer": "Takeda Pharmaceutical Company Limited",
+    "indication": "Infection",
+    "classification": "prescription"
+  },
+  {
+    "name": "Metovir",
+    "category": "Antipyretic",
+    "dosage_form": "Ointment",
+    "strength": "641 mg",
+    "manufacturer": "Takeda Pharmaceutical Company Limited",
+    "indication": "Infection",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Ibuprovir",
+    "category": "Antidepressant",
+    "dosage_form": "Syrup",
+    "strength": "758 mg",
+    "manufacturer": "Eli Lilly and Company",
+    "indication": "Fungus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Cefcillin",
+    "category": "Antipyretic",
+    "dosage_form": "Tablet",
+    "strength": "954 mg",
+    "manufacturer": "Takeda Pharmaceutical Company Limited",
+    "indication": "Fungus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Acetomycin",
+    "category": "Analgesic",
+    "dosage_form": "Inhaler",
+    "strength": "838 mg",
+    "manufacturer": "Novo Nordisk A/S",
+    "indication": "Wound",
+    "classification": "prescription"
+  },
+  {
+    "name": "Ibuprocillin",
+    "category": "Antifungal",
+    "dosage_form": "Ointment",
+    "strength": "422 mg",
+    "manufacturer": "AbbVie Inc.",
+    "indication": "Wound",
+    "classification": "prescription"
+  },
+  {
+    "name": "Acetonazole",
+    "category": "Antipyretic",
+    "dosage_form": "Ointment",
+    "strength": "575 mg",
+    "manufacturer": "Bayer AG",
+    "indication": "Wound",
+    "classification": "prescription"
+  },
+  {
+    "name": "Dolocillin",
+    "category": "Antiviral",
+    "dosage_form": "Ointment",
+    "strength": "451 mg",
+    "manufacturer": "Novo Nordisk A/S",
+    "indication": "Diabetes",
+    "classification": "prescription"
+  },
+  {
+    "name": "Cefmet",
+    "category": "Antifungal",
+    "dosage_form": "Tablet",
+    "strength": "440 mg",
+    "manufacturer": "AstraZeneca plc",
+    "indication": "Depression",
+    "classification": "prescription"
+  },
+  {
+    "name": "Dolophen",
+    "category": "Antibiotic",
+    "dosage_form": "Capsule",
+    "strength": "469 mg",
+    "manufacturer": "Johnson & Johnson",
+    "indication": "Depression",
+    "classification": "prescription"
+  },
+  {
+    "name": "Ibupronazole",
+    "category": "Analgesic",
+    "dosage_form": "Injection",
+    "strength": "720 mg",
+    "manufacturer": "Novartis AG",
+    "indication": "Fungus",
+    "classification": "prescription"
+  },
+  {
+    "name": "Amoxiprofen",
+    "category": "Antiviral",
+    "dosage_form": "Ointment",
+    "strength": "861 mg",
+    "manufacturer": "Novo Nordisk A/S",
+    "indication": "Diabetes",
+    "classification": "prescription"
+  },
+  {
+    "name": "Acetomycin",
+    "category": "Antiviral",
+    "dosage_form": "Drops",
+    "strength": "978 mg",
+    "manufacturer": "Roche Holding AG",
+    "indication": "Virus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Amoxistatin",
+    "category": "Antiviral",
+    "dosage_form": "Inhaler",
+    "strength": "46 mg",
+    "manufacturer": "Sanofi S.A.",
+    "indication": "Fever",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Dextrocillin",
+    "category": "Antidiabetic",
+    "dosage_form": "Inhaler",
+    "strength": "392 mg",
+    "manufacturer": "Sanofi S.A.",
+    "indication": "Pain",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Metovir",
+    "category": "Antifungal",
+    "dosage_form": "Injection",
+    "strength": "124 mg",
+    "manufacturer": "Merck & Co., Inc.",
+    "indication": "Diabetes",
+    "classification": "prescription"
+  },
+  {
+    "name": "Cefmet",
+    "category": "Analgesic",
+    "dosage_form": "Cream",
+    "strength": "649 mg",
+    "manufacturer": "Merck & Co., Inc.",
+    "indication": "Fungus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Clariphen",
+    "category": "Antidiabetic",
+    "dosage_form": "Syrup",
+    "strength": "300 mg",
+    "manufacturer": "GlaxoSmithKline plc",
+    "indication": "Fungus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Ibuprocillin",
+    "category": "Antibiotic",
+    "dosage_form": "Inhaler",
+    "strength": "86 mg",
+    "manufacturer": "Bristol-Myers Squibb Company",
+    "indication": "Diabetes",
+    "classification": "prescription"
+  },
+  {
+    "name": "Dolomet",
+    "category": "Antifungal",
+    "dosage_form": "Drops",
+    "strength": "335 mg",
+    "manufacturer": "Amgen Inc.",
+    "indication": "Diabetes",
+    "classification": "prescription"
+  },
+  {
+    "name": "Acetoprofen",
+    "category": "Antibiotic",
+    "dosage_form": "Inhaler",
+    "strength": "909 mg",
+    "manufacturer": "CSL Limited",
+    "indication": "Fever",
+    "classification": "prescription"
+  },
+  {
+    "name": "Amoximet",
+    "category": "Analgesic",
+    "dosage_form": "Ointment",
+    "strength": "795 mg",
+    "manufacturer": "Gilead Sciences, Inc.",
+    "indication": "Pain",
+    "classification": "prescription"
+  },
+  {
+    "name": "Cefmet",
+    "category": "Antidepressant",
+    "dosage_form": "Injection",
+    "strength": "512 mg",
+    "manufacturer": "Boehringer Ingelheim GmbH",
+    "indication": "Fever",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Doloprofen",
+    "category": "Antibiotic",
+    "dosage_form": "Inhaler",
+    "strength": "981 mg",
+    "manufacturer": "Eli Lilly and Company",
+    "indication": "Fungus",
+    "classification": "over-the-counter"
+  },
+  {
+    "name": "Clariprofen",
+    "category": "Antifungal",
+    "dosage_form": "Tablet",
+    "strength": "123 mg",
+    "manufacturer": "Pfizer Inc.",
+    "indication": "Infection",
+    "classification": "prescription"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_fdaa94",
+  "start_time": 1745614620.383654,
+  "turns": [
+    {
+      "ai_line": "Doctor, I don chop some leftover rice wey I see for pot since yesterday night and now my belle dey pain me well well. I dey even feel like to vomit and my body dey shake like say I wan purge. E be like say the rice don spoil because of the hot weather wey dey my area.",
+      "user_input": "you",
+      "timestamp": 1745614650.8055074,
+      "emotion": "neutral"
+    }
+  ]
+}

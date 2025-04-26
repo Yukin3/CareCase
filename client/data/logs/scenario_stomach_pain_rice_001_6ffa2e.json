@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_6ffa2e",
+  "start_time": 1745518801.8078368,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel terrible. Since I chop that leftover rice wey I keep for yesterday, my belle don dey cut me. I dey feel like I wan purge and vomit. E dey very hot for where I dey stay, food fit spoil quick quick.",
+      "user_input": "That's too bad. What did you eat recently? Did you drink water?",
+      "timestamp": 1745518837.8190048,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, you sabi wetin fit make dis kind thing happen? I no sabi say rice fit spoil like dis. I just dey pray say no be something serious. I go fit drink water abi e go make am worse?",
+      "user_input": "Go drink water now. Why not? It used to be.",
+      "timestamp": 1745518872.3116367,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "\"Doctor, I still dey feel de pain for my belle. E dey come an go like say na wave. Abeg, wetin I fit do to make am stop? I don tire for dis kind wahala.\"",
+      "user_input": "I think prescribe you this one medicine called",
+      "timestamp": 1745518903.458418,
+      "emotion": "neutral"
+    }
+  ]
+}

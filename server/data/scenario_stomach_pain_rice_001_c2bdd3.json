@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_c2bdd3",
+  "start_time": 1745507889.6824768,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel strong pain for my belle after I chop leftover rice wey don stay for house. I dey vomit sef and my body dey do me somehow like say I wan purge. I dey live for place wey heat too much and food dey spoil quick quick. Na wetin I fit do?",
+      "user_input": "you",
+      "timestamp": 1745507925.819221,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I need help badly. This kind pain wey I dey feel, I never feel am before. Na only small time e dey take before food go spoil for this our area because of the heat. I dey fear say na the rice wey I chop na im dey cause am. I hope say no be something serious.",
+      "user_input": "you",
+      "timestamp": 1745507965.083564,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, apart from the belle pain, I dey feel like I wan throw up. My body no just dey kajad, I dey stool water every time. I just dey weak. E get any medicine I fit take to stop this one?",
+      "user_input": "you",
+      "timestamp": 1745507996.5065815,
+      "emotion": "neutral"
+    }
+  ]
+}

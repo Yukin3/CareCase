@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_unexpected_pregnancy_001",
+  "role": "patient",
+  "session_id": "scenario_unexpected_pregnancy_001_70490e",
+  "start_time": 1745527124.15828,
+  "turns": [
+    {
+      "ai_line": "I\u2019ve had this dull cramping in my lower stomach for a few days now...",
+      "user_input": "you",
+      "timestamp": 1745527140.5683784,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "At first I thought it was just PMS or something... but my period is late.",
+      "user_input": "you",
+      "timestamp": 1745527159.8767638,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "I\u2019ve also been feeling really tired and kinda nauseous in the mornings.",
+      "user_input": "you",
+      "timestamp": 1745527178.204965,
+      "emotion": "neutral"
+    }
+  ]
+}

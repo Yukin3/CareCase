@@ -1,0 +1,122 @@
+[
+    {
+        "id": "patient_salma_egypt",
+        "role": "patient",
+        "name": "Salma",
+        "gender": "female",
+        "accent": "ar-EG",
+        "voice_id": "ar-EG-SalmaNeural",
+        "personality": "polite, cooperative",
+        "age_range": "30-40",
+        "tone": "neutral",
+        "notes": "Ideal for routine patient interactions with moderate concern."
+    },
+    {
+        "id": "doctor_shakir_egypt",
+        "role": "doctor",
+        "name": "Dr. Shakir",
+        "gender": "male",
+        "accent": "ar-EG",
+        "voice_id": "ar-EG-ShakirNeural",
+        "personality": "confident, informative",
+        "age_range": "40-50",
+        "tone": "neutral",
+        "notes": "Used to simulate clinical explanation or patient briefings."
+    },
+    {
+        "id": "patient_nabanita_bd",
+        "role": "patient",
+        "name": "Nabanita",
+        "gender": "female",
+        "accent": "bn-BD",
+        "voice_id": "bn-BD-NabanitaNeural3",
+        "personality": "anxious, soft-spoken",
+        "age_range": "20-30",
+        "tone": "polite",
+        "notes": "Great for portraying nervous younger patients."
+    },
+    {
+        "id": "doctor_pradeep_bd",
+        "role": "doctor",
+        "name": "Dr. Pradeep",
+        "gender": "male",
+        "accent": "bn-BD",
+        "voice_id": "bn-BD-PradeepNeural3",
+        "personality": "direct, matter-of-fact",
+        "age_range": "45-60",
+        "tone": "neutral",
+        "notes": "Best for demonstrating clinical precision."
+    },
+    {
+        "id": "patient_kavya_india",
+        "role": "patient",
+        "name": "Kavya",
+        "gender": "female",
+        "accent": "en-IN",
+        "voice_id": "en-IN-KavyaNeural",
+        "personality": "worried, polite",
+        "age_range": "18-25",
+        "tone": "soft",
+        "notes": "Useful for young adult, uncertain cases."
+    },
+    {
+        "id": "doctor_arjun_india",
+        "role": "doctor",
+        "name": "Dr. Arjun",
+        "gender": "male",
+        "accent": "en-IN",
+        "voice_id": "en-IN-ArjunNeural",
+        "personality": "patient, respectful",
+        "age_range": "40-50",
+        "tone": "reassuring",
+        "notes": "Explains clearly, good for student training."
+    },
+    {
+        "id": "patient_ezinne_nigeria",
+        "role": "patient",
+        "name": "Ezinne",
+        "gender": "female",
+        "accent": "en-NG",
+        "voice_id": "en-NG-EzinneNeural",
+        "personality": "calm, cooperative",
+        "age_range": "30-40",
+        "tone": "neutral",
+        "notes": "Commonly used voice for relaxed patient sessions."
+    },
+    {
+        "id": "doctor_abeo_nigeria",
+        "role": "doctor",
+        "name": "Dr. Abeo",
+        "gender": "male",
+        "accent": "en-NG",
+        "voice_id": "en-NG-AbeoNeural",
+        "personality": "assertive, knowledgeable",
+        "age_range": "50-60",
+        "tone": "instructive",
+        "notes": "Ideal for confident clinical briefings."
+    },
+    {
+        "id": "nurse_blessica_ph",
+        "role": "nurse",
+        "name": "Blessica",
+        "gender": "female",
+        "accent": "fil-PH",
+        "voice_id": "fil-PH-BlessicaNeural3",
+        "personality": "gentle, polite",
+        "age_range": "25-35",
+        "tone": "soothing",
+        "notes": "Good for patient care instructions."
+    },
+    {
+        "id": "doctor_angelo_ph",
+        "role": "doctor",
+        "name": "Dr. Angelo",
+        "gender": "male",
+        "accent": "fil-PH",
+        "voice_id": "fil-PH-AngeloNeural3",
+        "personality": "calm, technical",
+        "age_range": "35-45",
+        "tone": "neutral",
+        "notes": "Useful for analytical case discussions."
+    }
+]

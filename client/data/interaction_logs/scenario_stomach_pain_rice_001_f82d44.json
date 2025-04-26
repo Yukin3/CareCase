@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_f82d44",
+  "start_time": 1745614132.7165744,
+  "turns": [
+    {
+      "ai_line": "Good morning doctor, I dey feel serious pain for my belle after I chop leftover rice yesterday. My belle dey turn me, and I dey purge too. This kind wahala no dey happen before but since the weather start to dey hot reach this level, food dey spoil quick. I no fit bear this pain again, I need help abeg.",
+      "user_input": "No worry I'll go help you. We didn't need a job.",
+      "timestamp": 1745614174.0133243,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, na the pain I dey try talk about. E be like say something dey turn for inside my belle. I just dey feel like say I wan purge but nothing dey come out. The pain na him dey worry me pass. Wetin I fit do to stop this pain?",
+      "user_input": "eb full poisoning so we will prescribe you mess don't worry",
+      "timestamp": 1745614210.8511577,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Abeg, doctor, the pain dey too much. I no fit sleep. Wetin you fit recommend make I do?",
+      "user_input": "Just rest, lay down, drink water, take antibiotics.",
+      "timestamp": 1745614236.2706685,
+      "emotion": "neutral"
+    }
+  ]
+}

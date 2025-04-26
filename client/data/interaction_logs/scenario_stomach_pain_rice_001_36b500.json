@@ -1,0 +1,26 @@
+{
+  "scenario_id": "scenario_stomach_pain_rice_001",
+  "role": "patient",
+  "session_id": "scenario_stomach_pain_rice_001_36b500",
+  "start_time": 1745617183.2286437,
+  "turns": [
+    {
+      "ai_line": "Doctor, I dey feel serious pain for my belle after I chop the rice wey I keep yesterday. I dey even feel like to vomit and I don dey purge too. This sun too much here and food dey spoil quick.",
+      "user_input": "It depends when I go to sleep, but I don't like I want to help my sister.",
+      "timestamp": 1745617218.5341058,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, e be like say the rice don spoil before I chop am. How I go fit prevent this kind thing from happen again?",
+      "user_input": "I'm talking about the like giant form is double flags that you can fly",
+      "timestamp": 1745617249.345528,
+      "emotion": "neutral"
+    },
+    {
+      "ai_line": "Doctor, I no go like make this kain thing happen again. E no good for body at all. Wetin you think say I fit do make I no chop bad food again?",
+      "user_input": "large antennas for receiving signals from outer space.",
+      "timestamp": 1745617277.751576,
+      "emotion": "neutral"
+    }
+  ]
+}
